@@ -1,5 +1,20 @@
 * {
     margin: 0;
     padding: 0;
-    border: red solid 1px;
+   
+}
+/* Background visuals */
+body {
+    background-color: grey;
+}
+
+/* Card visuals */
+/* Card images */
+.card-img-top {
+    border-radius: 10%;
+}
+/* Cards */
+.card {
+    border-radius: 10%;
+    border: none;
 }
