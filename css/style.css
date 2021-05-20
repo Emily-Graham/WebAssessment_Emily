@@ -3,16 +3,6 @@
     padding: 0;
 }
 
-.row {
-    border: purple solid 2px;
-    
-}
-
-.col {
-    border: blue solid 3px;
-    display: 
-}
-
 /* Background visuals */
 body {
     background-color: grey;
@@ -22,6 +12,14 @@ body {
 .page-logo {
     width: 70px;
     height: 70px;
+}
+
+.navbar-visuals {
+     background-color: #131313;
+}
+
+.name {
+    color: #97722C;
 }
 
 
@@ -70,6 +68,10 @@ body {
     border-radius: 20px;
     display: flex;
     align-items: center;
+}
+
+#map {
+    border-radius: 30px;
 }
 
 /* Footer Visuals */
